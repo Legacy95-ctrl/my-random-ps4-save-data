@@ -1,2 +1,3 @@
-# my-random-ps4-save-data
-use it if u want
+# How to get the save data on your PS4
+
+So you wanna get a file named as "CUSAXXXXX-VXX.XX-GameNameHere" and extract it there should be a folder called PS4, you want to move it to your usb storage device (the folder called PS4) and disconnect it from your computer and plug it to your PS4, then you wanna go to Settings -> Application Saved Data Management -> Saved Data on USB Storage Device -> Copy to System Storage, and there should be a name of a game and you wanna press X on it and select everything in it and do copy once its copied you can disconnect your USB and launch the game and there should be a completed save.
